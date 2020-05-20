@@ -1,3 +1,6 @@
+# Script used to merge with garrysmod game folder
+MERGE.sh
+
 # Windows image file caches
 Thumbs.db
 ehthumbs.db
